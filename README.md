@@ -1,0 +1,2 @@
+# FUNDING.yml
+Supporting
